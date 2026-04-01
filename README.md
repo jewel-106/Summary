@@ -15,7 +15,7 @@ I'm a **Junior Software Engineer** and Computer Science graduate passionate abou
 
 Here are some of the projects I’m working on:
 
-- **[Doctor Appointment System]**: A comprehensive healthcare management platform built with **Java Spring Boot 3.x**, **Angular**, and **MySQL**. Features include patient registration, doctor scheduling, real-time appointment booking, and role-based access control with Spring Security.
+- **[Doctor Appointment System]**: [A comprehensive healthcare management platform built with **Java Spring Boot 3.x**, **Angular**, and **MySQL**. Features include patient registration, doctor scheduling, real-time appointment booking, and role-based access control with Spring Security.](https://appointment-system-for-doctor.netlify.app/)
 - **[Cafe Management System]**: [A full-stack web application for managing café orders, user authentication, and real-time order tracking using Angular and Express.js.](https://cafe-online-shop-bd.netlify.app/)
 - **[Table Extraction using Deep Learning]**: A machine learning model using PyTorch and OpenCV to extract and process tables from scanned documents for data analysis.
 
